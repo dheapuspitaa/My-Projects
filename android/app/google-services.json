@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647397169075",
+    "project_id": "resepapp-8f01a",
+    "storage_bucket": "resepapp-8f01a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647397169075:android:4ac79b892fdf2345e3ddc6",
+        "android_client_info": {
+          "package_name": "com.example.resepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FxbxMzZFqi31vYtcTI0KDIdveLcU2XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
